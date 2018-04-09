@@ -1,6 +1,5 @@
 h1 {color: #020714; text-align:center;
     border-bottom-style: double;}
-p {color: #29323b; text-align: center;}
 h2{color: #058ac2; text-align: center; margin-bottom: 30px}
 body{background-color: #b5e2f5; ;background-size: 100%;
 }
@@ -8,5 +7,6 @@ ul{list-style-type:none; margin:0;padding:0}
 li{display:inline; text-align: center}
 footer{font-size: 8px; text-align: center}
 .nav{margin-bottom: 30px}
+p {color: #29323b; text-align: center;}
 
 
